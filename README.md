@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33227450/README.md)
+
 # Sterowanie quadrocopterem z wykorzystaniem regulatora LQR
 
 Projekt zrealizowany w ramach pracy inżynierskiej na kierunku **Robotyka i Automatyka** na Politechnice Warszawskiej. Obejmuje modelowanie dynamiki quadrocoptera, implementację regulatora liniowo-kwadratowego (LQR) oraz symulacyjną ocenę śledzenia zadanych trajektorii w **GNU Octave**.
